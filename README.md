@@ -15,12 +15,13 @@ I am an aspiring software developer and currently a computer science student stu
 ---
 ## **Future goals**
 #### **Major goals:**
-- Fully learn Git and GitHub so I am able to add all of my projects onto here
 - Work on bigger projects including the use of third-party API
+- Add more commits to codewars-solutions and reach 6kyu
+- Add more repos of all of my projects
 - Finish my degree
 #### **Minor goals:**
 - Start uploading my progress onto YouTube and Twitter
-- Relearn python
+- Relearn Python
 ---
 ## My links:
 [Twitter][twitter]
