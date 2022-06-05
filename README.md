@@ -23,7 +23,10 @@ I am an aspiring software developer and currently a computer science student stu
 - Organise better and plan more (start uploading my progress onto things like Youtube and Twitter, and make plans for thing I want to do)
 - Relearn Python
 ---
-## My links:
+## Contact me:
+
+[Email][email]
+
 [Twitter][twitter]
 
 [LinkedIn][linkedin]
@@ -38,7 +41,7 @@ I am an aspiring software developer and currently a computer science student stu
 
 
 
-
-[twitter]: https://twitter.com/_divizn
-[youtube]: https://www.youtube.com/channel/UCUJiDUP8P0lsjKreaW45pdw
-[linkedin]: https://www.linkedin.com/in/hassan-javed-924629221
+[email]: mailto:contact@hassanj.dev (Email)
+[twitter]: https://twitter.com/_divizn (Twitter)
+[youtube]: https://www.youtube.com/channel/UCUJiDUP8P0lsjKreaW45pdw (Youtube)
+[linkedin]: https://www.linkedin.com/in/hassan-javed-924629221 (LinkedIn)
