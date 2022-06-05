@@ -20,7 +20,7 @@ I am an aspiring software developer and currently a computer science student stu
 - Add more repos of all of my projects
 - Finish my degree
 #### **Minor goals:**
-- Start uploading my progress onto YouTube and Twitter
+- Organise better and plan more (start uploading my progress onto things like Youtube and Twitter, and make plans for thing I want to do)
 - Relearn Python
 ---
 ## My links:
