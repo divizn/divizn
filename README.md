@@ -27,8 +27,6 @@ I am an aspiring software developer and currently a computer science student stu
 
 [Email][email]
 
-[Twitter][twitter]
-
 [LinkedIn][linkedin]
 
 [Youtube][youtube]
@@ -42,6 +40,5 @@ I am an aspiring software developer and currently a computer science student stu
 
 
 [email]: mailto:contact@hassanj.dev (Email)
-[twitter]: https://twitter.com/_divizn (Twitter)
 [youtube]: https://www.youtube.com/channel/UCUJiDUP8P0lsjKreaW45pdw (Youtube)
 [linkedin]: https://www.linkedin.com/in/hassan-javed-924629221 (LinkedIn)
