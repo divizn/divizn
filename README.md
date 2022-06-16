@@ -32,8 +32,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divizn&repo=java-basic-calculator&hide_border=true&theme=dark&bg_color=0d1117)](https://github.com/divizn/java-basic-calculator)
 
 ## Cool Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divizn&count_private=true&hide_border=true&theme=dark&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divizn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divizn&count_private=true&hide_border=true&theme=dark&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divizn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=divizn)
 
