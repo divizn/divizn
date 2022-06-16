@@ -10,17 +10,17 @@
 ## Current goals
 
 ### Major goals:
-- [x] Learn to use HTML, CSS, JavaScript & TypeScript.
-- [x] Finish my [portfolio](https://hassanj.dev).
-- [x] Learn git.
-- [ ] Create more repos and start more projects
-- [ ] Add more commits to codewars-solutions and reach 6kyu
+- ✔️ Learn to use HTML, CSS, JavaScript & TypeScript.
+- ✔️ Finish my [portfolio](https://hassanj.dev).
+- ✔️ Learn git.
+- ❌ Create more repos and start more projects
+- ❌ Add more commits to codewars-solutions and reach 6kyu
 ### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
 
 ### Minor goals:
-- [ ] Relearn Python
-- [x] Organise better and plan more (start uploading my progress onto things like Youtube and Twitter, and make plans for thing I want to do)
-- [ ] Finish with uni (I'm in 2nd year now)
+- ❌ Relearn Python
+- ✔️ Organise better and plan more (start uploading my progress onto things like Youtube and Twitter, and make plans for thing I want to do)
+- ❌ Finish with uni (I'm in 2nd year now)
 ### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
 
 
