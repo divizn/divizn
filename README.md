@@ -24,7 +24,7 @@
 - ✔️ Organise better and plan more (start uploading my progress onto things like Youtube and Twitter, and make plans for thing I want to do)
 - ❌ Finish with uni (I'm in 2nd year now)
 
-### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
+### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/67)
 
 ## Repositories
 
