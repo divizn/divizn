@@ -1,10 +1,7 @@
 <h3 align="center">👋 Hello, I'm Hassan!</h3>
 <p align="center">I am currently a computer science student studying in London and an apsiring software developer. Here you will be able to track my journey and see all of the projects that I am working on. I hope you find something of use here!</p>
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/at.svg" align=right width=30 height=30>](mailto:contact@hassanj.dev)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" align=right width=30 height=30>](https://hassanj.dev)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" align=right width="30" height="30">](https://www.linkedin.com/in/hassan-javed-924629221)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" align=right  width=30 height=30>](https://www.youtube.com/channel/UCUJiDUP8P0lsjKreaW45pdw)
+<a href="mailto:hassanjaved186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align=right></a><a href="https://www.linkedin.com/in/hassan-javed-924629221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align=right></a><a href="https://www.youtube.com/channel/UCUJiDUP8P0lsjKreaW45pdw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align=right></a><a href="https://hassanj.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" align=right></a> 
 
 ## Current goals
 
