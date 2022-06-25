@@ -10,10 +10,10 @@
 - ✔️ Learn to use HTML, CSS, JavaScript & TypeScript.
 - ✔️ Finish my [portfolio](https://hassanj.dev).
 - ✔️ Learn git.
-- ❌ Create more repos and start more projects
+- ✔️ Create more repos and start more projects
 - ❌ Add more commits to codewars-solutions and reach 6kyu
 
-### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
 ### Minor goals:
 
