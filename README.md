@@ -3,25 +3,30 @@
 
 <a href="mailto:hassanjaved186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align=right></a><a href="https://www.linkedin.com/in/hassanjaved186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align=right></a><a href="https://www.youtube.com/channel/UCUJiDUP8P0lsjKreaW45pdw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align=right></a><a href="https://hassanj.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" align=right></a> 
 
-## Current goals
+<br>
 
-### Major goals:
 
-- ✔️ Learn to use HTML, CSS, JavaScript & TypeScript.
+## Goals
+
+### Summer goals:
+
+#### Major goals:
+
+- ✔️ Learn to use HTML, CSS, JavaScript.
 - ✔️ Finish my [portfolio](https://hassanj.dev).
 - ✔️ Learn git.
 - ✔️ Create more repos and start more projects
 - ❌ Add more commits to codewars-solutions and reach 6kyu
 
-### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
-### Minor goals:
+#### Minor goals:
 
 - ✔️ Relearn Python
 - ✔️ Organise better and plan more (start uploading my progress onto things like Youtube and Twitter, and make plans for thing I want to do)
-- ❌ Finish with uni (I'm in 2nd year now)
+- ✔️ Finish year 1 of uni
 
-### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 ## Repositories
 
