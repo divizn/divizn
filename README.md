@@ -12,13 +12,13 @@
 
 #### Major goals:
 
-- ✔️ Learn to use HTML, CSS, JavaScript.
+- ➖ Learn to use HTML, CSS, JavaScript.
 - ✔️ Finish my [portfolio](https://hassanj.dev).
 - ✔️ Learn git.
 - ✔️ Create more repos and start more projects
 - ❌ Add more commits to codewars-solutions and reach 6kyu
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
 
 #### Minor goals:
 
