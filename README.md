@@ -33,7 +33,7 @@
 ## Repositories I like
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=0d1117)](https://github.com/divizn/discord-spotify-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divizn&repo=todo-list&hide_border=true&bg_color=0d1117&theme=dark)](https://github.com/divizn/todo-list)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=divizn&repo=react-weather-app&hide_border=true&bg_color=0d1117&theme=dark)](https://github.com/divizn/react-weather-app)
 
 
 ## Cool Stats
