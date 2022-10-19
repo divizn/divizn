@@ -13,20 +13,20 @@
 #### Major goals:
 
 - ❌ Learn how full stack web dev projects work (structure, conventions and fundamentals of full stack web dev)
-- ❌ Add 3 major projects to my [portfolio](https://hassanj.dev). (0/3 done)
+- ❌ Add 3 more projects to my [portfolio](https://hassanj.dev). (1/3 done)
 - ❌ Start leetcode and complete some easy and medium tasks and atleast 1 hard task
 - ❌ Escape tutorial hell
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/8)
 
 #### Minor goals:
 
 - ❌ Add more commits to codewars-solutions - start JS codewars and reach 6kyu
 - ❌ Create my CV and start applying for placement
 - ❌ Stay on top of deadlines for uni assignments
-- ❌ Learn to make something other than noodles
+- ✔️ Learn to make something other than noodles
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)
 
 </br>
 
