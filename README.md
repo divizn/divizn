@@ -21,12 +21,12 @@
 
 #### Minor goals:
 
-- ❌ Add more commits to codewars-solutions - start JS codewars and reach 6kyu
-- ❌ Create my CV and start applying for placement
+- ✔️ Create my CV and start applying for placement
+- ❌ Do interview prep stuff
 - ❌ Stay on top of deadlines for uni assignments
-- ❌ Learn to make something other than noodles
+- ✔️ Learn to make something other than noodles
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
 </br>
 
