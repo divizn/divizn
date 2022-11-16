@@ -15,9 +15,9 @@
 - ✔️ Learn how full stack web dev projects work (structure, conventions and fundamentals of full stack web dev)
 - ❌ Add 3 more projects to my [portfolio](https://hassanj.dev). (1/3 done)
 - ❌ Start leetcode and complete some easy and medium tasks and atleast 1 hard task
-- ❌ Escape tutorial hell
+- ❔ Escape tutorial hell
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)
 
 #### Minor goals:
 
