@@ -17,7 +17,7 @@
 - ❌ Start leetcode and complete some easy and medium tasks and atleast 1 hard task
 - ❔ Escape tutorial hell
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/48)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
 #### Minor goals:
 
