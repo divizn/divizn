@@ -23,10 +23,10 @@
 
 - ✔️ Create my CV and start applying for placement
 - ✔️ Do interview prep stuff
-- ❌ Stay on top of deadlines for uni assignments
+- ✔️ Stay on top of deadlines for uni assignments
 - ✔️ Learn to make something other than noodles
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
 </br>
 
