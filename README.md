@@ -8,7 +8,7 @@
 
 ## Goals
 
-### Goals till October:
+### Goals (04/03/23):
 
 #### Major goals:
 
