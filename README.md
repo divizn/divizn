@@ -8,25 +8,25 @@
 
 ## Goals
 
-### Autumn/Winter goals:
+### Goals till October:
 
 #### Major goals:
 
-- ✔️ Learn how full stack web dev projects work (structure, conventions and fundamentals of full stack web dev)
-- ✔️ Add 3 more projects to my [portfolio](https://hassanj.dev). (3/3 done)
-- ❌ Start leetcode and complete some easy and medium tasks and atleast 1 hard task
-- ✔️ Escape tutorial hell (kinda)
+- ❌
+- ❌
+- ❌ 
+- ❌
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
 #### Minor goals:
 
-- ✔️ Create my CV and start applying for placement
-- ✔️ Do interview prep stuff
-- ✔️ Stay on top of deadlines for uni assignments
-- ✔️ Learn to make something other than noodles
+- ❌
+- ❌
+- ❌
+- ❌
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
 </br>
 
