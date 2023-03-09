@@ -12,7 +12,7 @@
 #### Current goals:
 
 - ❌ Leetcode - Start doing leetcode to improve problem solving
-- ❌ Mess around with Next13 and try the app directory out
+- ❌ Mess around with Next13 and try the app directory out (Also try Svelte, Solid and Astro out when I can)
 - ❌ Make something with t3 stack
 - ❌ Finish React Native project
 - ❌ Use TypeScript more
