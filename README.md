@@ -5,39 +5,44 @@
 
 </br>
 
+#
 
-## Goals
+### Goals (Set 09/03/23):
 
-### Goals (04/03/23):
+#### Current goals:
 
-#### Major goals:
-
-- ❌
-- ❌
-- ❌ 
-- ❌
+- ❌ Leetcode - Start doing leetcode to improve problem solving
+- ❌ Mess around with Next13 and try the app directory out
+- ❌ Make something with t3 stack
+- ❌ Finish React Native project
+- ❌ Use TypeScript more
 
 #### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
-#### Minor goals:
+#### Later goals:
 
-- ❌
-- ❌
-- ❌
-- ❌
+- ❌ Update portfolio - Try out threejs and other stuff and add more projects
+- ❌ Do some more bot development with TS or Python (twitter bot, discord, twitch, any)
+- ❌ Do some stuff with C/C++, Rust - use [this](https://github.com/practical-tutorials/project-based-learning) to learn how languages like these work
+- ❌ Try out game dev stuff - Maybe Roblox+lua, Unity+C#, MonoGame+C# or Unreal Engine+C++
+- ❌ Try out embedded systems stuff - Arduino or Rasp Pi
 
 #### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
 </br>
 
-## Repositories I like
+#
+
+### Repositories I like
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=0d1117)](https://github.com/divizn/discord-spotify-bot)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=react-weather-app&hide_border=true&bg_color=0d1117&theme=dark)](https://github.com/divizn/react-weather-app)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=clone-sites&hide_border=true&bg_color=0d1117&theme=dark)](https://github.com/divizn/clone-sites)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=portfolio-site&hide_border=true&bg_color=0d1117&theme=dark)](https://github.com/divizn/portfolio-site/)
 
-## Cool Stats
+#
+
+### Random Stats
 
 [![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divizn&count_private=true&hide_border=true&theme=dark&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divizn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
