@@ -16,16 +16,13 @@
 - ❌ Make something with t3 stack
 - ❌ Finish React Native project
 - ❌ Use TypeScript more
-
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-
-#### Later goals:
-
 - ❌ Update portfolio - Try out threejs and other stuff and add more projects
 - ❌ Do some more bot development with TS or Python (twitter bot, discord, twitch, any)
 - ❌ Do some stuff with C/C++, Rust - use [this](https://github.com/practical-tutorials/project-based-learning) to learn how languages like these work
 - ❌ Try out game dev stuff - Maybe Roblox+lua, Unity+C#, MonoGame+C# or Unreal Engine+C++
 - ❌ Try out embedded systems stuff - Arduino or Rasp Pi
+- ❌ Work on CV - Add to it by adding projects, rewording soft skills to hit bots and do certificates like the AWS ones
+- ❌ Do theory practice and get license
 
 #### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
