@@ -15,11 +15,11 @@
 - ❌ Mess around with Next13 and try the app directory out (Also try Svelte, Solid and T3 out)
 - ❌ Finish React Native project
 - ❌ Use TypeScript more
-- ✔️ Update portfolio - Try out threejs and other stuff and add more projects
+- ✔️ Update portfolio - Try out threejs and other stuff and add more projects - (completed 04/04/23)
 - ❌ Do some more bot development with TS or Python (twitter bot, discord, twitch, any)
 - ❌ Try out C/C++, Rust - use [this](https://github.com/practical-tutorials/project-based-learning)
 - ❌ Try out embedded systems stuff - Arduino or Rasp Pi
-- ✔️ Work on CV - Add to it by adding projects, rewording soft skills to hit bots and do certificates like the AWS ones
+- ✔️ Work on CV - Add to it by adding projects, rewording soft skills to hit bots and do certificates like the AWS ones - still need to do certificates (completed 04/04/23)
 - ❌ Do theory practice and get license
 
 #### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
