@@ -20,7 +20,7 @@
 - ❌ Try out C/C++, Rust - use [this](https://github.com/practical-tutorials/project-based-learning)
 - ❌ Try out embedded systems stuff - Arduino or Rasp Pi
 - ✔️ Work on CV - Add to it by adding projects, rewording soft skills to hit bots and do certificates like the AWS ones - still need to do certificates (completed 04/04/23)
-- ❌ Do theory practice and get license
+- ❌ Do theory practice and get license - (completed 10/07/23)
 
 #### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
 
