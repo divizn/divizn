@@ -11,8 +11,8 @@
 
 #### Current goals:
 
-- ❌ Leetcode - Start doing leetcode to improve problem solving
-- ❌ Mess around with Next13 and try the app directory out (Also try Svelte, Solid and T3 out)
+- ✔️ Leetcode - Start doing leetcode to improve problem solving - (completed 26/08/23)
+- ✔️ Mess around with Next13 and try the app directory out (Also try Svelte, Solid and T3 out) - (completed 02/09/23)
 - ❌ Finish React Native project
 - ❌ Use TypeScript more
 - ✔️ Update portfolio - revamped it - (completed 04/04/23)
@@ -22,7 +22,7 @@
 - ✔️ Work on CV - Add to it by adding projects, rewording soft skills to hit bots and do certificates like the AWS ones - still need to do certificates (completed 04/04/23)
 - ✔️ Do theory practice and get license - (completed 10/07/23)
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
 </br>
 
