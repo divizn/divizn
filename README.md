@@ -14,15 +14,15 @@
 - ✔️ Leetcode - Start doing leetcode to improve problem solving - (completed 26/08/23)
 - ✔️ Mess around with Next13 and try the app directory out (Also try Svelte and Astro out) - (completed 02/09/23)
 - ❌ Finish React Native project
-- ❌ Use TypeScript more
+- ✔️ Use TypeScript more
 - ✔️ Update portfolio - revamped it - (completed 04/04/23)
 - ❌ Do some more bot development with TS or Python (twitter bot, discord, twitch, any)
-- ❌ Try out C/C++, Rust - use [this](https://github.com/practical-tutorials/project-based-learning)
+- ✔️ Try out C/C++, Rust - (completed 13/10/23)
 - ❌ Try out embedded systems stuff - Arduino or Rasp Pi
 - ✔️ Work on CV - Add to it by adding projects, rewording soft skills to hit bots and do certificates like the AWS ones - still need to do certificates (completed 04/04/23)
 - ✔️ Do theory practice and get license - (completed 10/07/23)
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
 </br>
 
