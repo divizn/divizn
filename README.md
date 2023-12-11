@@ -24,8 +24,6 @@
 
 #### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
-</br>
-
 #
 
 ### Repositories I like
@@ -39,7 +37,8 @@
 
 ### Random Stats
 
-[![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divizn&count_private=true&hide_border=true&theme=dark&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divizn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divizn&count_private=true&hide_border=true&theme=dark&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=5&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=divizn)
 
