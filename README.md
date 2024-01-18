@@ -16,11 +16,11 @@
 - ✔️ Update portfolio - revamped it - (completed 04/04/23)
 - ❌ Do some more bot development with TS or Python (twitter bot, discord, twitch, any)
 - ✔️ Try out C/C++, Rust - (completed 13/10/23)
-- ❌ Try out Arduino or Rasp Pi
+- ✔️ Try out Arduino or Rasp Pi - (completed 18/01/24)
 - ✔️ Work on CV - Add to it by adding projects, and do certificates like the AWS ones (completed 04/04/23)
 - ✔️ Do theory and get license - (completed 10/07/23)
 
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
 #
 
