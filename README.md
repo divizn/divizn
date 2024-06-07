@@ -5,25 +5,6 @@
 
 #
 
-### Goals (Set 09/03/23):
-
-#### Current goals:
-
-- ✔️ Leetcode - Start doing leetcode to improve problem solving - (completed 26/08/23)
-- ✔️ Mess around with Next13 and try the app directory out (Also try Svelte and Astro out) - (completed 02/09/23)
-- ✔️ Finish React Native project - (completed 15/01/24)
-- ✔️ Use TypeScript more
-- ✔️ Update portfolio - revamped it - (completed 04/04/23)
-- ❌ Do some more bot development with TS or Python (twitter bot, discord, twitch, any)
-- ✔️ Try out C/C++, Rust - (completed 13/10/23)
-- ✔️ Try out Arduino or Rasp Pi - (completed 18/01/24)
-- ✔️ Work on CV - Add to it by adding projects, and do certificates like the AWS ones (completed 04/04/23)
-- ✔️ Do theory and get license - (completed 10/07/23)
-
-#### **Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-
-#
-
 ### Repositories I like
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/discord-spotify-bot)
