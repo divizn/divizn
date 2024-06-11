@@ -9,7 +9,7 @@
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/discord-spotify-bot)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=tcp-message-passing&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/tcp-message-passing)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=clone-sites&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/clone-sites)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=portfolio-site&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/portfolio-site/)
 
 #
