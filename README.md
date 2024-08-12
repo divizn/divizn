@@ -16,8 +16,8 @@
 
 ### Random Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=8&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Hassan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divizn&line_height=30&text_bold=false&count_private=true&hide_border=true&theme=cobalt&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://readme-stats-lyart-seven.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=8&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Hassan's github stats](https://readme-stats-divizns-projects.vercel.app/api?username=divizn&line_height=30&text_bold=false&count_private=true&hide_border=true&theme=cobalt&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![](https://komarev.com/ghpvc/?username=divizn)
 
