@@ -7,16 +7,16 @@
 
 ### Repositories I like
 
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/discord-spotify-bot)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=tcp-message-passing&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/tcp-message-passing)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=divizn&repo=clone-sites&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/clone-sites/)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/discord-spotify-bot)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=tcp-message-passing&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/tcp-message-passing)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=discord-app-rust&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/discord-app-rust/)
 
 #
 
 ### Random Stats
 
-[![Top Langs](https://readme-stats-lyart-seven.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=8&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-divizns-projects.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=8&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Hassan's github stats](https://readme-stats-divizns-projects.vercel.app/api?username=divizn&line_height=30&text_bold=false&count_private=true&hide_border=true&theme=cobalt&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![](https://komarev.com/ghpvc/?username=divizn)
