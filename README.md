@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello, I'm Hassan!</h3>
-<p align="center">Here you will be able to what I am working on. I hope you find something of use here!</p>
+<p align="center">Here you will be able to see what I am working on. I hope you find something of use here!</p>
 
 <div align=right>
 <a href="mailto:hassanjaved186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
