@@ -14,7 +14,7 @@
 
 [![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=discord-spotify-bot&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/discord-spotify-bot)
 [![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=tcp-message-passing&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/tcp-message-passing)
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=daily-quotes&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/daily-quotes)
 [![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=discord-app-rust&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/discord-app-rust/)
 
 #
