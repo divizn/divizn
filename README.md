@@ -2,9 +2,9 @@
 <p align="center">Here you will be able to see what I am working on. I hope you find something of use here!</p>
 
 <div align=right>
-<a href="mailto:hassanjaved186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- <a href="mailto:hassanjaved186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 <a href="https://www.linkedin.com/in/hassanjaved186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/@divizn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<!-- <a href="https://www.youtube.com/@divizn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
 <a href="https://portfolio.phons.dev"><img src="https://img.shields.io/badge/projects-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 </div>
 
