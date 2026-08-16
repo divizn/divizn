@@ -11,10 +11,12 @@
 
 ### Repositories I like
 
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=phon&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/phon)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=ssh-battleships&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/ssh-battleships/)
 [![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=vidm&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/vidm)
 [![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=ssh-battleships&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/ssh-battleships/)
+[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=phon&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/phon)
+
+
 
 #
 
