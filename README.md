@@ -13,7 +13,7 @@
 [![ssh-battleships](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=ssh-battleships&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/ssh-battleships/)
 [![vidm](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=vidm&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/vidm)
 [![word-similarity](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
-[![phon](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=phon&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/phon)
+[![godis](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=godis&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/godis)
 
 
 
