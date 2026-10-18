@@ -1,32 +1,22 @@
 <h3 align="center">👋 Hello, I'm Hassan!</h3>
-<p align="center">Here you will be able to see what I am working on. I hope you find something of use here!</p>
+<p align="center">I build backend and distributed systems in Go, and web apps in TypeScript and Svelte.</p>
 
 <div align=right>
-<a href="https://www.linkedin.com/in/hassanjaved186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!-- <a href="https://www.youtube.com/@divizn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
-<a href="https://phons.dev"><img src="https://img.shields.io/badge/projects-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/hassanjaved186/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://phons.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </div>
-
-#
-
-### Repositories I like
-
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=ssh-battleships&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/ssh-battleships/)
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=vidm&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/vidm)
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
-[![ReadMe Card](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=phon&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/phon)
-
-
-
-#
-
-### Random Stats
-
-[![Top Langs](https://readme-stats-divizns-projects.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=5&exclude_repo=readme-stats,ai-assignments,legacy-portfolio-site,dotfiles&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Hassan's github stats](https://readme-stats-divizns-projects.vercel.app/api?username=divizn&line_height=30&text_bold=false&count_private=true&hide_border=true&theme=cobalt&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) 
-
-![](https://komarev.com/ghpvc/?username=divizn)
 
 ---
 
-:trollface:
+### Selected work
+
+[![ssh-battleships](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=ssh-battleships&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/ssh-battleships/)
+[![vidm](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=vidm&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/vidm)
+[![word-similarity](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=word-similarity&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/divizn/word-similarity)
+[![phon](https://readme-stats-divizns-projects.vercel.app/api/pin/?username=divizn&repo=phon&hide_border=true&theme=dark&bg_color=00000000)](https://github.com/divizn/phon)
+
+
+
+### Languages
+
+[![Most used languages](https://readme-stats-divizns-projects.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=5&exclude_repo=readme-stats,ai-assignments,legacy-portfolio-site,dotfiles&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
