@@ -20,7 +20,6 @@
 ### Random Stats
 
 [![Most used languages](https://readme-stats-divizns-projects.vercel.app/api/top-langs/?username=divizn&layout=donut&langs_count=5&exclude_repo=readme-stats,ai-assignments,legacy-portfolio-site,dotfiles&theme=cobalt&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Hassan's github stats](https://readme-stats-divizns-projects.vercel.app/api?username=divizn&line_height=30&text_bold=false&count_private=true&hide_border=true&theme=cobalt&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=divizn)
 
